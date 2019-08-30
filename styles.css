@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+.header{
+    display: inline-block;
+    color: darkturquoise;
+    font-size: 60px;
+    font-family: fantasy;
+    text-align: center;
+    margin: 20px auto;
+    font-weight: bold;
+    border-bottom: 2px solid darkturquoise;
+}
+
+.header img{
+    width: 5%;
+}
+.main img{
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+    border: 4px solid darkturquoise;
+
+}
+h1{
+    color: darkturquoise;
+    text-align: center;
+    font-family: fantasy;
+    word-spacing: 55px;
+}
